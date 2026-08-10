@@ -5,6 +5,7 @@ El objetivo de este repositorio es que se practique como crear un pull request d
 ## Instrucciones
 1. Crear un fork del repositorio 
 <img width="495" height="76" alt="image" src="https://github.com/user-attachments/assets/a87e7edd-7eb6-413a-806f-5ae3b4c00774" />
+
 picandole en el boton que dice fork
 
 2. Clonar el repositorio **asegurarse de usar la forma de ssh**
